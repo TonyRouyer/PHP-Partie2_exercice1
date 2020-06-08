@@ -14,9 +14,7 @@
             }else {
                 echo 'vous êtes mineur';
             }
-
         ?>
     </p>
-
 </body>
 </html>
